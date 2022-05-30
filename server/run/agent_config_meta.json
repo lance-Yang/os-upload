@@ -1,0 +1,329 @@
+{
+  "keys": "F:\\os\\server\\config\\config.default.js",
+  "multipart": {
+    "mode": "F:\\os\\server\\config\\config.default.js",
+    "whitelist": "F:\\os\\server\\config\\config.default.js",
+    "fileSize": "F:\\os\\server\\config\\config.default.js",
+    "autoFields": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "F:\\os\\server\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "middleware": "F:\\os\\server\\config\\config.default.js",
+  "UPLOAD_DIR": "F:\\os\\server\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "F:\\os\\server\\config\\config.default.js",
+      "type": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\os\\server\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "mongoose": {
+    "client": {
+      "url": "F:\\os\\server\\config\\config.default.js",
+      "options": "F:\\os\\server\\config\\config.default.js"
+    },
+    "url": "F:\\os\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "options": "F:\\os\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "plugins": "F:\\os\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "loadModel": "F:\\os\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "app": "F:\\os\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "agent": "F:\\os\\server\\node_modules\\egg-mongoose\\config\\config.default.js"
+  },
+  "jwt": {
+    "secret": "F:\\os\\server\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "F:\\os\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "F:\\os\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\os\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "F:\\os\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "F:\\os\\server\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "F:\\os\\server\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\os\\server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\os\\server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\os\\server\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\os\\server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\os\\server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\os\\server\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\os\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\os\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\os\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\os\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\os\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\os\\server\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\os\\server\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\os\\server\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "F:\\os\\server\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\os\\server\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "F:\\os\\server\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "F:\\os\\server\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "F:\\os\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\os\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "F:\\os\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\os\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\os\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "F:\\os\\server\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\os\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\os\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\os\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\os\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\os\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\os\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\os\\server\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\os\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "F:\\os\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "F:\\os\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "F:\\os\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "F:\\os\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\os\\server\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\os\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "F:\\os\\server\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\os\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\os\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "F:\\os\\server\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "routerGroup": "F:\\os\\server\\node_modules\\egg-router-group\\config\\config.default.js",
+  "validate": "F:\\os\\server\\node_modules\\egg-validate\\config\\config.default.js",
+  "env": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "name": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "version": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "description": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "private": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mongoose": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-router-group": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "fs-extra": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "jsonwebtoken": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "md5": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "nodemailer": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "svg-captcha": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "husky": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "stop": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "dev": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "debug": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "test": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "cov": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "lint": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "ci": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "autod": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "prepare": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "url": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "license": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "cacheControl": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "strict": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "depth": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "env": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "level": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\os\\server\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "logging": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "port": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\os\\server\\node_modules\\egg\\config\\config.default.js"
+}
